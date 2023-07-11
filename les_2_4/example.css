@@ -1,0 +1,12 @@
+h1 {
+background: pink
+}
+p.par1 {
+background: pink
+}
+
+p.par1 {
+background: pink;
+font-size: 14pt;
+border: 10px solid  green;
+}
