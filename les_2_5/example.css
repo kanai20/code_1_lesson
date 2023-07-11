@@ -1,0 +1,19 @@
+h1 {
+background: pink
+}
+p.par1 {
+background: pink
+}
+
+p.par1 {
+background: pink;
+font-size: 14pt;
+border: 4px solid  green;
+}
+
+p.par2 {
+font-size: 24pt;
+font-style: italic;
+text-align: center;
+text-shadow: 2px 2px 4px green;
+}
